@@ -1,5 +1,5 @@
 [project]
-name = "strands-agents-mcp-server"
+name = "iflow-mcp_strands-agents_strands-agents-mcp-server"
 dynamic = ["version"]
 description = "A Model Context Protocol server that provides knowledge about building AI agents with Strands Agents"
 readme = "README.md"
